@@ -9,7 +9,6 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        isAnagram = False
         result = []
         pDict = {}
         anagram = {}
